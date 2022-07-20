@@ -41,24 +41,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285850539404'] //ur owner number
-global.ownername = "6285850539404"
-global.ytname = "YT:https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur yt chanel name
+global.owner = ['62895366943070'] //ur owner number
+global.ownername = "𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑭𝒐𝒓 𝑨𝒎𝒆𝒍𝒍"
+global.ytname = "YT:https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ" //ur yt chanel name
 global.socialm = "GitHub: Jarot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄" //ur bot name
-global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['6285850539404'] //ur owner tag
-global.ownernummenu = ['6285850539404'] //ur owner number in menu and all
-global.watermark = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄." //ur watermark
-global.botscript = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
+global.botname = "𝑨𝑴𝑬𝑳𝑳-𝑩𝑶𝑻𝒁" //ur bot name
+global.websitex = "https://chat.whatsapp.com/J9v6iwwrDvX3zPpEnLbVwB" //ur website
+global.vidmenu = { url: 'https://chat.whatsapp.com/J9v6iwwrDvX3zPpEnLbVwB' } //gif and video menu
+global.packname = "𝑨𝑴𝑬𝑳𝑳-𝑩𝑶𝑻 Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "Hello Kaka Selamat Menggunakan Bot Yah Tetap Patuhilah [𝗥𝗨𝗟𝗘𝗦 𝗦𝗬𝗦𝗧𝗘𝗠] ᴊɪᴋᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ ʟᴀᴘᴏʀ!! [𝐁𝐔𝐆 𝐓𝐈𝐃𝐀𝐊 𝐃𝐈 𝐁𝐎𝐋𝐄𝐇𝐊𝐍 𝐁𝐄𝐑𝐊𝐄𝐋𝐈𝐀𝐑𝐀𝐍] ᴊɪᴋᴀ ᴀɴᴅᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ ᴘʟᴀssᴇ 𝗛𝘂𝗯𝘂𝗻𝗴𝗶 𝗢𝘄𝗻𝗲𝗿 𝗞𝗮𝗺𝗶 𝗱𝗶 wa.me/62895366943070 |𝑨𝒎𝒆𝒍𝒍 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓|"
+global.themeemoji = "🦄"
+global.reactmoji = "🌸🌟😘"
+global.ownertag = ['62895366943070'] //ur owner tag
+global.ownernummenu = ['62895366943070'] //ur owner number in menu and all
+global.watermark = "𝐶𝑜𝑝𝑦𝑟𝑖𝑔ℎ𝑡 𝐴𝑀𝐸𝐿🌸" //ur watermark
+global.botscript = "https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ"
 global.linkz1 = ""
 global.linkz2 = ""
 
