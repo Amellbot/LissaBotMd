@@ -48,10 +48,10 @@ global.socialm = "GitHub: Jarot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "Hello Kaka Selamat Menggunakan Bot Yah Tetap Patuhilah [𝗥𝗨𝗟𝗘𝗦 𝗦𝗬𝗦𝗧𝗘𝗠] ᴊɪᴋᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ ʟᴀᴘᴏʀ!! [𝐁𝐔𝐆 𝐓𝐈𝐃𝐀𝐊 𝐃𝐈 𝐁𝐎𝐋𝐄𝐇𝐊𝐍 𝐁𝐄𝐑𝐊𝐄𝐋𝐈𝐀𝐑𝐀𝐍] ᴊɪᴋᴀ ᴀɴᴅᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ ᴘʟᴀssᴇ 𝗛𝘂𝗯𝘂𝗻𝗴𝗶 𝗢𝘄𝗻𝗲𝗿 𝗞𝗮𝗺𝗶 𝗱𝗶 wa.me/62895366943070 |𝑨𝒎𝒆𝒍𝒍 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓|"" //ur bot name
+global.botname = "Hello Kaka Selamat Menggunakan Bot Yah Tetap Patuhilah [𝗥𝗨𝗟𝗘𝗦 𝗦𝗬𝗦𝗧𝗘𝗠] ᴊɪᴋᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ ʟᴀᴘᴏʀ!! [𝐁𝐔𝐆 𝐓𝐈𝐃𝐀𝐊 𝐃𝐈 𝐁𝐎𝐋𝐄𝐇𝐊𝐍 𝐁𝐄𝐑𝐊𝐄𝐋𝐈𝐀𝐑𝐀𝐍] ᴊɪᴋᴀ ᴀɴᴅᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ ᴘʟᴀssᴇ 𝗛𝘂𝗯𝘂𝗻𝗴𝗶 𝗢𝘄𝗻𝗲𝗿 𝗞𝗮𝗺𝗶 𝗱𝗶 wa.me/62895366943070 |𝑨𝒎𝒆𝒍𝒍 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓|" //ur bot name
 global.websitex = "https://chat.whatsapp.com/J9v6iwwrDvX3zPpEnLbVwB" //ur website
 global.vidmenu = { url: 'https://chat.whatsapp.com/J9v6iwwrDvX3zPpEnLbVwB' } //gif and video menu
-global.packname = "𝑨𝑴𝑬𝑳𝑳-𝑩𝑶𝑻 Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "𝑨𝑴𝑬𝑳𝑳 Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "|𝑨𝒎𝒆𝒍𝒍 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓|"
 global.themeemoji = "🦄"
 global.reactmoji = "🌸🌟😘"
